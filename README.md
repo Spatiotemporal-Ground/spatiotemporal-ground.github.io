@@ -1,6 +1,6 @@
 # LTL-Transfer
 
-This is the repository that contains source code for the [Lang2LTL website](https://lang2ltl.github.io/).
+This is the repository that contains source code for the [Spatiotemporal Grounding website](https://spatiotemporal-ground.github.io/).
 
 ```
 @article{liu2023lang2ltl,

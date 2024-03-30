@@ -3,11 +3,11 @@
 This is the repository that contains source code for the [Spatiotemporal Grounding website](https://spatiotemporal-ground.github.io/).
 
 ```
-@article{liu2023lang2ltl,
-  author    = {Liu, Jason Xinyu and Yang, Ziyi and Idrees, Ifrah and Liang, Sam and Schornstein, Benjamin and Tellex, Stefanie and Shah, Ankit},
-  title     = {Grounding Complex Natural Language Commands for Temporal Tasks in Unseen Environments},
-  journal   = {Conference on Robot Learning},
-  year      = {2023},
+@article{liu2023lang2ltl-2,
+  author    = {Liu, Jason Xinyu and Shah, Ankit and Konidaris, George and Tellex, Stefanie and Paulius, David},
+  title     = {Grounding Spatiotemporal Navigation Commands Using Large Language and Vision Models},
+  journal   = {},
+  year      = {2024},
 }
 ```
 

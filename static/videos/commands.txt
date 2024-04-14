@@ -1,0 +1,114 @@
+***** Indoor *****
+
+0: navigate to the kitchen counter between the blue couch and the refrigerator
+
+1: go to the couch in front of the TV, the couch to the left of the kitchen counter, the kitchen counter between the couch and the refrigerator, the table next to the door, and the chair on the left of the bookshelf in any order
+
+2: move to the couch in front of the TV, then the couch to the left of the kitchen counter, then the refrigerator right of the kitchen counter, then the table to the left of the bookshelf, then the table next to the door
+
+3: walk to the chair in front of the bookshelf but only after the kitchen counter
+
+4: move from the red couch near the TV to the blue couch left of the kitchen counter and only visit each landmark one time
+
+5: go to the kitchen counter on the left side of the fridge exactly once and do not visit the kitchen counter on the left side of the fridge before the couch left of the TV
+
+6: patrol the fridge right of kitchen counter at least five times
+
+7: go to the kitchen counter between the blue couch and the fridge at most three times
+
+8: visit the couch left of the counter, in addition never go to the TV in front of the couch
+
+9: visit the blue couch near the kitchen counter then go to the fridge near the counter, in addition never visit the couch in front of the TV
+
+10: visit the blue couch near the kitchen counter then go to the fridge near the counter, in addition never visit the couch in front of the TV or the kitchen counter
+
+11: go to the refrigerator right of the kitchen counter, and only then go to the the couch left of counter, in addition always avoid the couch in front of the TV
+
+12: go to the refrigerator near the kitchen counter then the couch left of the kitchen counter then the couch in front of the TV, in addition after going to the refrigerator near the kitchen counter, you must avoid the kitchen counter
+
+13: go to the blue couch near the kitchen counter then the red couch in front of the TV, in addition go to the red couch in front of the TV only after visiting the refrigerator
+
+14: go to the table near the door then the blue couch next to the kitchen counter then the red couch in front of the TV, in addition go to the table near the door only after visiting the bookshelf
+
+15: go to the kitchen counter between the couch and fridge only after visiting the couch next to the counter, in addition go to the couch next to the counter only after visiting the refrigerator
+
+16: go to the kitchen counter between the couch and the refrigerator exactly two times, in addition always avoid the TV in front of the couch
+
+17: go to the bookshelf exactly two times, in addition always avoid the TV in front of the couch and the chair near the bookshelf
+
+18: visit the couch next to the kitchen counter exactly two times, in addition do not go to the couch next to the kitchen counter before the couch near the TV
+
+19: visit the couch in front of the TV at least two times, in addition do not go to the couch in front of the TV before the kitchen counter between the blue couch and the fridge
+
+20: go to the refrigerator near the kitchen counter then the couch in front of the TV, in addition you must go to the couch left of the kitchen counter exactly twice
+
+21: go to the blue couch next to the kitchen counter but never go to the blue couch next to the kitchen counter
+(unsatisfiable command due to logical contradication. abort correctly)
+
+22: go to the kitchen counter between the refrigerator and the blue couch at least twice, in addition go to the kitchen counter between the refrigerator and the blue couch exactly once
+(unsatisfiable command due to logical contradication. abort correctly)
+
+23: do not go to the desk near the door until the bookshelf, and do not go to the bookshelf until the desk near the door
+(unsatisfiable command due to logical contradication. abort correctly)
+
+24: find the kitchen counter between the refrigerator and the blue couch, in addition always avoid the red couch and the TV
+(unsatisfiable command due to environment constraint. abort correctly)
+
+
+
+
+
+***** Outdoor *****
+
+0: go to the stairs between the apartment building and the silver car
+
+1: go to the stairs in front of the apartment building, the car to the right of the apartment and the car to the left of the apartment in any order
+
+2: go to the white car to the right of the apartment, then visit the silver car near the stairs
+
+3: move to the car east of the apartment, then the car west of the apartment, then dumpster north of the apartment, then red brick building north of the apartment
+
+4: walk to the stairs between the apartment and the silver car, then the white car near the dumpster, then the dumpster
+
+5: navigate to the dumpster north of the white car but do not visit the dumpster north of the white car before the stairs near the apartment
+
+6: visit the the white car on the right side of the apartment but do not visit the white car on the right side of the apartment before the silver car on the east side of the apartment
+
+7: only visit the apartment once, and do not visit the apartment until you visit the white car west of the apartment first
+
+8: walk to the stairs in front of the apartment at least five times
+
+9: visit the stairs between the apartment and the silver car at most three times
+
+10: visit the silver car on the left side of the apartment exactly twice
+
+11: go to the dumpster near the white car, in addition avoid the red brick building north of the apartment
+
+12: go to the stairs between the silver car and the apartment then the apartment, in addition do not visit the dumpster north of the apartment
+
+13: go to the white car left to the apartment and the silver car right to the apartment, in addition avoid the red brick building north of the apartment
+
+14: move to the white car near the apartment at most twice, in addition avoid the dumpster near the white car
+
+15: go to the white car near the dumpster exactly three times, in addition avoid stairs in front of the apartment
+
+16: visit the dumpster near the white car, in addition you are not permitted to visit the apartment and the stairs between the apartment and silver car
+
+17: navigate to the apartment at least two different occasions, in addition you are only permitted to visit the white car near the apartment at most once
+
+18: walk to the white car close to the dumpster exactly once, in addition visit the stairs in front of the apartment on at least 2 separate occasions
+
+19: visit the silver car east of the apartment exactly twice, in addition visit the red brick building in front of the apartment on at least 3 separate occasions
+
+20: move to the stairs in front of the apartment then the apartment, in addition visit the white car near the dumpster exactly once
+
+21: Visit the white car, then go to the red brick wall and then go to the silver car near the apartment, in addition you can never go to the apartment once you've seen the white car
+
+22: go to the dumpster on the north side of the apartment, but always avoid the dumpster on the north side of the apartment
+(unsatisfiable command due to logical contradication. abort correctly)
+
+23: do not go to the white car west of the apartment until the red brick wall, and do not go to the red brick wall until the white car west of the apartment
+(unsatisfiable command due to logical contradication. abort correctly)
+
+24: find the dumpster near the white car, in addition avoid visiting the apartment and the red brick wall
+(unsatisfiable command due to environment constraint. abort correctly)

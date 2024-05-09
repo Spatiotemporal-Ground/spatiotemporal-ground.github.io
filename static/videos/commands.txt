@@ -43,13 +43,13 @@
 20: go to the refrigerator near the kitchen counter then the couch in front of the TV, in addition you must go to the couch left of the kitchen counter exactly twice
 
 21: go to the blue couch next to the kitchen counter but never go to the blue couch next to the kitchen counter
-(unsatisfiable command due to logical contradication. abort correctly)
+(unsatisfiable command due to logical contradiction. abort correctly)
 
 22: go to the kitchen counter between the refrigerator and the blue couch at least twice, in addition go to the kitchen counter between the refrigerator and the blue couch exactly once
-(unsatisfiable command due to logical contradication. abort correctly)
+(unsatisfiable command due to logical contradiction. abort correctly)
 
 23: do not go to the desk near the door until the bookshelf, and do not go to the bookshelf until the desk near the door
-(unsatisfiable command due to logical contradication. abort correctly)
+(unsatisfiable command due to logical contradiction. abort correctly)
 
 24: find the kitchen counter between the refrigerator and the blue couch, in addition always avoid the red couch and the TV
 (unsatisfiable command due to environment constraint. abort correctly)
@@ -105,10 +105,10 @@
 21: Visit the white car, then go to the red brick wall and then go to the silver car near the apartment, in addition you can never go to the apartment once you've seen the white car
 
 22: go to the dumpster on the north side of the apartment, but always avoid the dumpster on the north side of the apartment
-(unsatisfiable command due to logical contradication. abort correctly)
+(unsatisfiable command due to logical contradiction. abort correctly)
 
 23: do not go to the white car west of the apartment until the red brick wall, and do not go to the red brick wall until the white car west of the apartment
-(unsatisfiable command due to logical contradication. abort correctly)
+(unsatisfiable command due to logical contradiction. abort correctly)
 
 24: find the dumpster near the white car, in addition avoid visiting the apartment and the red brick wall
 (unsatisfiable command due to environment constraint. abort correctly)

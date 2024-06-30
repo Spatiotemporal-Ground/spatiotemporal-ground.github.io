@@ -1,4 +1,4 @@
-# LTL-Transfer
+# Lang2LTL-2
 
 This is the repository that contains source code for the [Spatiotemporal Grounding website](https://spatiotemporal-ground.github.io/).
 
@@ -6,7 +6,7 @@ This is the repository that contains source code for the [Spatiotemporal Groundi
 @article{liu2023lang2ltl-2,
   author    = {Liu, Jason Xinyu and Shah, Ankit and Konidaris, George and Tellex, Stefanie and Paulius, David},
   title     = {Grounding Spatiotemporal Navigation Commands Using Large Language and Vision Models},
-  journal   = {},
+  journal   = {2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)},
   year      = {2024},
 }
 ```

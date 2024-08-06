@@ -4,7 +4,7 @@ This is the repository that contains source code for the [Spatiotemporal Groundi
 
 ```
 @article{liu2024lang2ltl2,
-  title     = {{Lang2LTL}-2: rounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models},
+  title     = {{Lang2LTL}-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models},
   author    = {Liu, Jason Xinyu and Shah, Ankit and Konidaris, George and Tellex, Stefanie and Paulius, David},
   journal   = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)},
   year      = {2024}
